@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 
-import setuptools
-from distutils.core import setup, Extension
+# import setuptools
+# from distutils.core import setup, Extension
+from setuptools import setup, Extension
+
 
 setup(name='rdpy',
 	version='1.3.2',
